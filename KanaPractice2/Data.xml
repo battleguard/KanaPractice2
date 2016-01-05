@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<kana>
+	<hirg>
+		<!--Region aiueo -->
+		<aiueo>
+			<a romanji="a" kana="あ" />
+			<i romanji="i" kana="い" />
+			<u romanji="u" kana="う" />
+			<e romanji="e" kana="え" />
+			<o romanji="o" kana="お" />
+		</aiueo>
+		<!--End Region -->
+
+		<!-- Region K/G -->
+		<kSeries>
+			<ka romanji="ka" kana="か" />
+			<ki romanji="ki" kana="き" />
+			<ku romanji="ku" kana="く" />
+			<ke romanji="ke" kana="け" />
+			<ko romanji="ko" kana="こ" />
+		</kSeries>
+		<gSeries>
+			<ga romanji="ga" kana="が" />
+			<gi romanji="gi" kana="ぎ" />
+			<gu romanji="gu" kana="ぐ" />
+			<ge romanji="ge" kana="げ" />
+			<go romanji="go" kana="ご" />
+		</gSeries>
+		<!-- #End Region-->
+
+		<!--Region S/Z -->
+		<sSeries>
+			<sa romanji="sa" kana="さ" />
+			<shi romanji="shi,si" kana="し" />
+			<su romanji="su" kana="す" />
+			<se romanji="se" kana="せ" />
+			<so romanji="so" kana="そ" />
+		</sSeries>
+		<zSeries>
+			<za romanji="za" kana="ざ" />
+			<ji romanji="ji,zi" kana="じ" />
+			<zu romanji="zu" kana="ず" />
+			<ze romanji="ze" kana="ぜ" />
+			<zo romanji="zo" kana="ぞ" />
+		</zSeries>
+		<!--End Region-->
+
+		<!--Region T/D -->
+		<tSeries>
+			<ta romanji="ta" kana="た" />
+			<chi romanji="chi,ti" kana="ち" />
+			<tsu romanji="tsu,tu" kana="つ" />
+			<te romanji="te" kana="て" />
+			<to romanji="to" kana="と" />
+		</tSeries>
+		<dSeries>
+			<da romanji="da" kana="だ" />
+			<di romanji="di" kana="ぢ" />
+			<du romanji="du" kana="づ" />
+			<de romanji="de" kana="で" />
+			<do romanji="do" kana="ど" />
+		</dSeries>
+		<!--End Region-->
+
+		<!--Region N -->
+		<nSeries>
+			<na romanji="na" kana="な" />
+			<ni romanji="ni" kana="に" />
+			<nu romanji="nu" kana="ぬ" />
+			<ne romanji="ne" kana="ね" />
+			<no romanji="no" kana="の" />
+		</nSeries>
+		<!--End Region -->
+
+		<!--Region H/B/P -->
+		<hSeries>
+			<ha romanji="ha" kana="は" />
+			<hi romanji="hi" kana="ひ" />
+			<fu romanji="fu,hu" kana="ふ" />
+			<he romanji="he" kana="へ" />
+			<ho romanji="ho" kana="ほ" />
+		</hSeries>
+		<bSeries>
+			<ba romanji="ba" kana="ば" />
+			<bi romanji="bi" kana="び" />
+			<bu romanji="bu" kana="ぶ" />
+			<be romanji="be" kana="べ" />
+			<bo romanji="bo" kana="ぼ" />
+		</bSeries>
+		<pSeries>
+			<pa romanji="pa" kana="ぱ" />
+			<pi romanji="pi" kana="ぴ" />
+			<pu romanji="pu" kana="ぷ" />
+			<pe romanji="pe" kana="ぺ" />
+			<po romanji="po" kana="ぽ" />
+		</pSeries>
+		<!-- End Region -->
+
+		<!-- Region M -->
+		<mSeries>
+			<ma romanji="ma" kana="ま" />
+			<mi romanji="mi" kana="み" />
+			<mu romanji="mu" kana="む" />
+			<me romanji="me" kana="め" />
+			<mo romanji="mo" kana="も" />
+		</mSeries>
+		<!-- End Region-->
+
+		<!--Region Y -->
+		<ySeries>
+			<ya romanji="ya" kana="や" />
+			<yu romanji="yu" kana="ゆ" />
+			<yo romanji="yo" kana="よ" />
+		</ySeries>
+		<!--End Region -->
+
+		<!--Region R -->
+		<rSeries>
+			<ra romanji="ra" kana="ら" />
+			<ri romanji="ri" kana="り" />
+			<ru romanji="ru" kana="る" />
+			<re romanji="re" kana="れ" />
+			<ro romanji="ro" kana="ろ" />
+		</rSeries>
+		<!--End Region-->
+
+		<!--Region W -->
+		<wSeries>
+			<wa romanji="wa" kana="わ" />
+			<wo romanji="wo" kana="を" />
+			<n romanji="n" kana="ん" />
+		</wSeries>
+		<!--End Region-->
+
+		<!--Region Compound Sounds-->
+		<comboSounds>
+			<comboK>
+				<kya romanji="kya" kana="きゃ" />
+				<kyu romanji="kyu" kana="きゅ" />
+				<kyo romanji="kyo" kana="きょ" />
+			</comboK>
+			<comboG>
+				<gya romanji="gya" kana="ぎゃ" />
+				<gyu romanji="gyu" kana="ぎゅ" />
+				<gyo romanji="gyo" kana="ぎょ" />
+			</comboG>
+			<comboS>
+				<sha romanji="sha" kana="しゃ" />
+				<shu romanji="shu" kana="しゅ" />
+				<sho romanji="sho" kana="しょ" />
+			</comboS>
+			<comboJ>
+				<ja romanji="ja" kana="じゃ" />
+				<ju romanji="ju" kana="じゅ" />
+				<jo romanji="jo" kana="じょ" />
+			</comboJ>
+			<comboCH>
+				<cha romanji="cha" kana="ちゃ" />
+				<chu romanji="chu" kana="ちゅ" />
+				<cho romanji="cho" kana="ちょ" />
+			</comboCH>
+			<comboD>
+				<dya romanji="dya" kana="ぢゃ" />
+				<dyu romanji="dyu" kana="ぢゅ" />
+				<dyo romanji="dyo" kana="ぢょ" />
+			</comboD>
+			<comboN>
+				<nya romanji="nya" kana="にゃ" />
+				<nyu romanji="nyu" kana="にゅ" />
+				<nyo romanji="nyo" kana="にょ" />
+			</comboN>
+			<comboH>
+				<hya romanji="hya" kana="ひゃ" />
+				<hyu romanji="hyu" kana="ひゅ" />
+				<hyo romanji="hyo" kana="ひょ" />
+			</comboH>
+			<comboB>
+				<bya romanji="bya" kana="びゃ" />
+				<byu romanji="byu" kana="びゅ" />
+				<byo romanji="byo" kana="びょ" />
+			</comboB>
+			<comboP>
+				<pya romanji="pya" kana="ぴゃ" />
+				<pyu romanji="pyu" kana="ぴゅ" />
+				<pyo romanji="pyo" kana="ぴょ" />
+			</comboP>
+			<comboM>
+				<mya romanji="mya" kana="みゃ" />
+				<myu romanji="myu" kana="みゅ" />
+				<myo romanji="myo" kana="みょ" />
+			</comboM>
+			<comboR>
+				<rya romanji="rya" kana="りゃ" />
+				<ryu romanji="ryu" kana="りゅ" />
+				<ryo romanji="ryo" kana="りょ" />
+			</comboR>
+		</comboSounds>
+		<!-- End Region -->
+	</hirg>
+	<!-- Japanese Hiragana-->
+
+	<kata>
+		<!--Region aiueo-->
+		<aiueo>
+			<a romanji="a" kana="ア" />
+			<i romanji="i" kana="イ" />
+			<u romanji="u" kana="ウ" />
+			<e romanji="e" kana="エ" />
+			<o romanji="o" kana="オ" />
+		</aiueo>
+		<!--End Region -->
+
+		<!--Region K/G -->
+		<kSeries>
+			<ka romanji="ka" kana="カ" />
+			<ki romanji="ki" kana="キ" />
+			<ku romanji="ku" kana="ク" />
+			<ke romanji="ke" kana="ケ" />
+			<ko romanji="ko" kana="コ" />
+		</kSeries>
+		<gSeries>
+			<ga romanji="ga" kana="ガ" />
+			<gi romanji="gi" kana="ギ" />
+			<gu romanji="gu" kana="グ" />
+			<ge romanji="ge" kana="ゲ" />
+			<go romanji="go" kana="ゴ" />
+		</gSeries>
+		<!--End Region-->
+
+		<!--Region S/Z-->
+		<sSeries>
+			<sa romanji="sa" kana="サ" />
+			<shi romanji="shi" kana="シ" />
+			<su romanji="su" kana="ス" />
+			<se romanji="se" kana="セ" />
+			<so romanji="so" kana="ソ" />
+		</sSeries>
+		<zSeries>
+			<za romanji="za" kana="ザ" />
+			<ji romanji="ji,zi" kana="ジ" />
+			<zu romanji="zu" kana="ズ" />
+			<ze romanji="ze" kana="ゼ" />
+			<zo romanji="zo" kana="ゾ" />
+		</zSeries>
+		<!--End region-->
+
+		<!--Region T/D-->
+		<tSeries>
+			<ta romanji="ta" kana="タ" />
+			<chi romanji="chi,ti" kana="チ" />
+			<tsu romanji="tsu,tu" kana="ツ" />
+			<te romanji="te" kana="テ" />
+			<to romanji="to" kana="ト" />
+		</tSeries>
+		<dSeries>
+			<da romanji="da" kana="ダ" />
+			<di romanji="di" kana="ヂ" />
+			<du romanji="du" kana="ヅ" />
+			<de romanji="de" kana="デ" />
+			<do romanji="do" kana="ド" />
+		</dSeries>
+		<!--End Region-->
+
+		<!-- Region N -->
+		<nSeries>
+			<na romanji="na" kana="ナ" />
+			<ni romanji="ni" kana="ニ" />
+			<nu romanji="nu" kana="ヌ" />
+			<ne romanji="ne" kana="ネ" />
+			<no romanji="no" kana="ノ" />
+		</nSeries>
+		<!--End Region-->
+
+		<!--Region H/B/P-->
+		<hSeries>
+			<ha romanji="ha" kana="ハ" />
+			<hi romanji="hi" kana="ヒ" />
+			<fu romanji="fu,hu" kana="フ" />
+			<he romanji="he" kana="ヘ" />
+			<ho romanji="ho" kana="ホ" />
+		</hSeries>
+		<bSeries>
+			<ba romanji="ba" kana="バ" />
+			<bi romanji="bi" kana="ビ" />
+			<bu romanji="bu" kana="ブ" />
+			<be romanji="be" kana="ベ" />
+			<bo romanji="bo" kana="ボ" />
+		</bSeries>
+		<pSeries>
+			<pa romanji="pa" kana="パ" />
+			<pi romanji="pi" kana="ピ" />
+			<pu romanji="pu" kana="プ" />
+			<pe romanji="pe" kana="ペ" />
+			<po romanji="po" kana="ポ" />
+		</pSeries>
+		<!--End Region -->
+
+		<!--Region M -->
+		<mSeries>
+			<ma romanji="ma" kana="マ" />
+			<mi romanji="mi" kana="ミ" />
+			<mu romanji="mu" kana="ム" />
+			<me romanji="me" kana="メ" />
+			<mo romanji="mo" kana="モ" />
+		</mSeries>
+		<!--End Region-->
+
+		<!--Region Y -->
+		<ySeries>
+			<ya romanji="ya" kana="ヤ" />
+			<yu romanji="yu" kana="ユ" />
+			<yo romanji="yo" kana="ヨ" />
+		</ySeries>
+		<!--End Region-->
+
+		<!--Region R -->
+		<rSeries>
+			<ra romanji="ra" kana="ラ" />
+			<ri romanji="ri" kana="リ" />
+			<ru romanji="ru" kana="ル" />
+			<re romanji="re" kana="レ" />
+			<ro romanji="ro" kana="ロ" />
+		</rSeries>
+		<!--End Region-->
+
+		<!--Region W -->
+		<wSeries>
+			<wa romanji="wa" kana="ワ" />
+			<wo romanji="wo" kana="ヲ" />
+			<n romanji="n" kana="ン" />
+		</wSeries>
+		<!--End Region-->
+
+		<!--Region Compound Sounds-->
+		<comboSounds>
+			<comboK>
+				<kya romanji="kya" kana="キャ" />
+				<kyu romanji="kyu" kana="キュ" />
+				<kyo romanji="kyo" kana="キョ" />
+			</comboK>
+			<comboG>
+				<gya romanji="gya" kana="ギャ" />
+				<gyu romanji="gyu" kana="ギュ" />
+				<gyo romanji="gyo" kana="ギョ" />
+			</comboG>
+			<comboS>
+				<sha romanji="sha" kana="シャ" />
+				<shu romanji="shu" kana="シュ" />
+				<sho romanji="sho" kana="ショ" />
+			</comboS>
+			<comboJ>
+				<ja romanji="ja" kana="ジャ" />
+				<ju romanji="ju" kana="ジュ" />
+				<jo romanji="jo" kana="ジョ" />
+			</comboJ>
+			<comboCH>
+				<cha romanji="cha" kana="チャ" />
+				<chu romanji="chu" kana="チュ" />
+				<cho romanji="cho" kana="チョ" />
+			</comboCH>
+			<comboD>
+				<dya romanji="dya" kana="ヂャ" />
+				<dyu romanji="dyu" kana="ヂュ" />
+				<dyo romanji="dyo" kana="ヂョ" />
+			</comboD>
+			<comboN>
+				<nya romanji="nya" kana="ニャ" />
+				<nyu romanji="nyu" kana="ニュ" />
+				<nyo romanji="nyo" kana="ニョ" />
+			</comboN>
+			<comboH>
+				<hya romanji="hya" kana="ヒャ" />
+				<hyu romanji="hyu" kana="ヒュ" />
+				<hyo romanji="hyo" kana="ヒョ" />
+			</comboH>
+			<comboB>
+				<bya romanji="bya" kana="ビャ" />
+				<byu romanji="byu" kana="ビュ" />
+				<byo romanji="byo" kana="ビョ" />
+			</comboB>
+			<comboP>
+				<pya romanji="pya" kana="ピャ" />
+				<pyu romanji="pyu" kana="ピュ" />
+				<pyo romanji="pyo" kana="ピョ" />
+			</comboP>
+			<comboM>
+				<mya romanji="mya" kana="ミャ" />
+				<myu romanji="myu" kana="ミュ" />
+				<myo romanji="myo" kana="ミョ" />
+			</comboM>
+			<comboR>
+				<rya romanji="rya" kana="リャ" />
+				<ryu romanji="ryu" kana="リュ" />
+				<ryo romanji="ryo" kana="リョ" />
+			</comboR>
+		</comboSounds>
+		<!--End Region-->
+	</kata>
+	<!-- Japanese Katakana-->
+</kana>
