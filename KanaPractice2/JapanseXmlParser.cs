@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
+using KanaPractice2.Models;
 
 namespace KanaPractice2
 {
@@ -19,7 +20,7 @@ namespace KanaPractice2
       }
     } 
 
-    public static IEnumerable<LetterGroup> GetGroups( XElement element )
+    private static IEnumerable<LetterGroup> GetGroups( XElement element )
     {
       // skipping comboelement since this will require a lot more extra logic for now
       foreach ( var groupElement in element.Elements().TakeWhile( g => g.Name.LocalName != "comboSounds" ) )
@@ -31,7 +32,7 @@ namespace KanaPractice2
     }
 
 
-    public static IEnumerable<Conversion> GetConversions( XElement element )
+    private static IEnumerable<Conversion> GetConversions( XElement element )
     {
       foreach ( var conversion in element.Elements() )
       {

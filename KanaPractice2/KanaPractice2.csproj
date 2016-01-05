@@ -63,17 +63,17 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Conversion.cs" />
-    <Compile Include="JapaneseType.cs" />
     <Compile Include="JapaneseViewModel.cs" />
     <Compile Include="JapanseXmlParser.cs" />
-    <Compile Include="LetterGroup.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Conversion.cs" />
+    <Compile Include="Models\JapaneseType.cs" />
+    <Compile Include="Models\LetterGroup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
